@@ -1,6 +1,6 @@
 # Ejercicios para entregar
 
-Para empezar el modulo2 necesitamos una maquina virtual en la que tengamos instalado docker y docker-compose.
+Para empezar el modulo necesitamos una maquina virtual en la que tengamos instalado docker y docker-compose.
 La entrega de estos ejercicios deben ser mediante la subida de los pantallazos 
 
 1. Creacion de una maquina virtual en un virtualizador o en un provider cloud como AWS, Google Cloud o Azure.
@@ -8,3 +8,8 @@ La entrega de estos ejercicios deben ser mediante la subida de los pantallazos
    Conectarse por ssh e instalar docker y docker-compose.
 
 Pantallazo de los anteriores pasos y comprimirlos en un zip y subirlo al repositorio.
+
+
+#Info
+
+Los ejercicios se deben de entregar en caso de ser codigo subiendolo al repositorio en caso de imagenes, subir dichas imagenes al repositorio.
